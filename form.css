@@ -1,0 +1,6 @@
+span.hidden-message{
+  opacity: 0.0;
+}
+span.shown-message{
+  opacity: 1.0;
+}
